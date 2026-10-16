@@ -1,0 +1,15 @@
+{
+  "base": "dark",
+  "colors": {
+    "window": "#292c30",
+    "panel": "#292c30",
+    "surface": "#3a3d40",
+    "text": "#cecece",
+    "accent": "#1d99f3",
+    "link": "#1d99f3",
+    "read": "#47a655",
+    "chat": "#202326",
+    "surface_hover": "#2a3942",
+    "bubble_out": "#2a3942"
+  }
+}
